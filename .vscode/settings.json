@@ -1,0 +1,14 @@
+{
+  "[html]": {
+    "editor.tabSize": 2,
+    "editor.formatOnSave": false
+  },
+  "[toml]": {
+    "editor.defaultFormatter": "tamasfe.even-better-toml",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+  },
+  "evenBetterToml.formatter.indentTables": true,
+  "evenBetterToml.formatter.indentEntries": true,
+  "evenBetterToml.formatter.compactEntries": false
+}
