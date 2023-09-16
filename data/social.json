@@ -1,17 +1,17 @@
 [
   {
-    "title": "Twitter",
-    "fa_icon": "fab fa-twitter",
-    "url": "https://www.zerostatic.io"
+    "title": "Instagram",
+    "fa_icon": "fab fa-instagram",
+    "url": "https://www.instagram.com/ariavrofficial/"
   },
   {
-    "title": "Github",
-    "fa_icon": "fab fa-github",
-    "url": "https://www.zerostatic.io"
+    "title": "Facebook",
+    "fa_icon": "fab fa-facebook",
+    "url": "https://www.facebook.com/profile.php?id=61550878592777"
   },
   {
-    "title": "Slack",
-    "fa_icon": "fab fa-slack",
-    "url": "https://www.zerostatic.io"
+    "title": "Pinterest",
+    "fa_icon": "fab fa-pinterest",
+    "url": ""
   }
 ]

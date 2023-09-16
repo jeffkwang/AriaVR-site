@@ -1,7 +1,7 @@
 ---
 title: 'Blog'
-description: 'The latest news and opinions'
-date: 2019-02-10
+description: ''
+date: 2023-09-16
 url: 'blog'
 menu:
   main:

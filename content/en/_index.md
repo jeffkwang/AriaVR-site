@@ -1,7 +1,7 @@
 ---
 title: "Aria·VR"
 date: 2023-09-10
-description: "An online store for premium furniture and home & office goods, <strong> designed for AR/VR play and work </strong>."
+description: "<strong> Premium </strong> design for AR/VR work and play."
 header_transparent: true
 hero:
   background: "images/gen/home/home-1-large.svg"
@@ -41,5 +41,5 @@ outro:
 blog:
   enabled: true
   show_view_all: false
-  limit: 3
+  limit: 1
 ---

@@ -85,10 +85,7 @@ defaultContentLanguageInSubdir = false
     weight = 2
       
   [[menu.footer_tertiary]]
-    name = "404"
-    url = "/404/"
-    weight = 2
-
+  
 [languages]
   [languages.en]
     weight = 0
