@@ -1,4 +1,4 @@
-baseURL = "https://hugo-advance.netlify.app"
+baseURL = "ariavr.com"
 title = "AriaVR"
 theme = "hugo-advance"
 paginate = 3
