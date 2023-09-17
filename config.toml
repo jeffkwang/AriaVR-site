@@ -1,4 +1,4 @@
-baseURL = "ariavr.com"
+baseURL = "/"
 title = "AriaVR"
 theme = "hugo-advance"
 paginate = 3
