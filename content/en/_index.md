@@ -1,7 +1,7 @@
 ---
 title: "Aria·VR"
 date: 2023-09-10
-description: "<strong> Premium </strong> design for AR/VR work and play."
+description: "<strong> Premium </strong> design for the AR/VR experience."
 header_transparent: true
 hero:
   background: "images/gen/home/home-1-large.svg"

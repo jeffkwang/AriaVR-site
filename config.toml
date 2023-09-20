@@ -12,7 +12,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "G-JC6Y9XCHHC"
   enable_dark_mode = true
   enable_nested_menu = true       # allows dropdown menus in main menu
   enable_fixed_header = true      # if true the header will be sticky and animate on scroll
@@ -41,8 +41,8 @@ defaultContentLanguageInSubdir = false
       alt_offset = "#2f2f2f"
       alt_text = "#fafafa"
       alt_text_offset = "#a8a4a4"
-      primary = "#2b5df7"
-      primary_offset = "#a62bf7"
+      primary = "#0044CC"
+      primary_offset = "#a99734"
       primary_text = "#eeebfc"
       primary_text_offset = "#a7a7a7"
 
