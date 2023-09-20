@@ -55,7 +55,7 @@ defaultContentLanguageInSubdir = false
 [params.logo]
   logo = "images/logo/logo.svg"                             # Desktop logo
   logo_mobile = "images/logo/logo-mobile.svg"               # Mobile logo, typically the smaller square version of your logo (logomark)
-  logo_invert = "images/logo/logo-invert.png"               # Desktop logo in white, for use when the header is transparent
+  logo_invert = "images/logo/logo-invert.svg"               # Desktop logo in white, for use when the header is transparent
   logo_invert_mobile = "images/logo/logo-invert-mobile.svg" # Mobile logo in white
 
 [params.seo]
