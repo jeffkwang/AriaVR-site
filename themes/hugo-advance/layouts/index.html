@@ -8,18 +8,18 @@
         {{ partial "components/hero.html" (dict "title" .Title "description" .Params.description "background" .Params.hero.background "blend_mode" .Params.hero.blend_mode "theme" .Params.hero.theme)}}
     {{ end }}
 
-    <!-- Show a list of 'collections' -->
-    {{ if .Params.collections.enabled }}
-        {{ $section := $.Site.GetPage "section" "collections" }}
-        {{ $pages := where $.Site.RegularPages "Type" "collections" }}
-        {{ $limit := .Params.collections.limit | default 3 }}
-        {{ $slider := .Params.collections.slider | default false }}
+    <!-- Show a list of 'services' -->
+    {{ if .Params.services.enabled }}
+        {{ $section := $.Site.GetPage "section" "services" }}
+        {{ $pages := where $.Site.RegularPages "Type" "services" }}
+        {{ $limit := .Params.services.limit | default 3 }}
+        {{ $slider := .Params.services.slider | default false }}
         {{ if gt (len $pages) 0 }}
             <div class="strip strip-border-bottom theme-alt">
                 <div class="container">
                     <div class="strip-heading pb-2">
                         <h2>{{ $section.Title }}</h2>
-                        {{ if .Params.collections.show_view_all }}
+                        {{ if .Params.services.show_view_all }}
                             <a href="{{ $section.Permalink | relURL }}">{{ i18n "view_all" }}</a>
                         {{ end }}
                     </div>
@@ -28,7 +28,7 @@
                             <div class="col-12 col-md-6 col-lg-4 {{ if $slider }}mb-0{{ else }}mb-2{{ end }}">
                                 {{ .Render "summary-full" }}
                                 <!-- 
-                                    Use the full summary if you want to display collections with images
+                                    Use the full summary if you want to display services with images
                                     {{ .Render "summary-full" }} 
                                 -->
                             </div>
@@ -63,17 +63,17 @@
         </div>
     {{ end }}
 
-    {{ if .Params.work.enabled }}
-        {{ $section := $.Site.GetPage "section" "work" }}
-        {{ $pages := where $.Site.RegularPages "Type" "work" }}
-        {{ $limit := .Params.work.limit | default 3 }}
-        {{ $slider := .Params.work.slider | default false }}
+    {{ if .Params.collection.enabled }}
+        {{ $section := $.Site.GetPage "section" "collection" }}
+        {{ $pages := where $.Site.RegularPages "Type" "collection" }}
+        {{ $limit := .Params.collection.limit | default 3 }}
+        {{ $slider := .Params.collection.slider | default false }}
         {{ if gt (len $pages) 0 }}
         <div class="strip theme-alt">
             <div class="container">
                 <div class="strip-heading pb-2">
-                    <h2>{{ if .Params.work.label }}{{ .Params.work.label }}{{ else }}{{ $section.Title }}{{ end }}</h2>
-                    {{ if .Params.work.show_view_all }}
+                    <h2>{{ if .Params.collection.label }}{{ .Params.collection.label }}{{ else }}{{ $section.Title }}{{ end }}</h2>
+                    {{ if .Params.collection.show_view_all }}
                         <a href="{{ $section.Permalink | relURL }}">{{ i18n "view_all" }}</a>
                     {{ end }}
                 </div>

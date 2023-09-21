@@ -8,6 +8,10 @@ header_transparent: true
 portfolio: ["Fall 2023"]
 hero:
   background: "images/gen/projects/project-3-1.webp"
+footer_primary:
+    identifier: collections_footer
+    url: /collections/ritual
+    weight: 1
 work:
   heading: Nike
   heading_label: "Client"

@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "AriaVR"
+title = "Aria VR Room Design & Furniture Shop – Real Furniture for VR Enthusiasts"
 theme = "hugo-advance"
 paginate = 3
 enableGitInfo = false
@@ -20,16 +20,16 @@ defaultContentLanguageInSubdir = false
 
   [params.colors]
     [params.colors.light]
-      base = "#ffffff"
-      base_offset = "#f2f2f2"
+      base = "#ececec"
+      base_offset = "#666666"
       base_text = "#202020"
       base_text_offset = "#625c5c"
-      alt = "#f4f5fb"
+      alt = "#CCCCCC"
       alt_offset = "#CCCCCC"
       alt_text = "#202020"
       alt_text_offset = "#625c5c"
-      primary = "#2b3af7"
-      primary_offset = "#702bf7"
+      primary = "#0044CC"
+      primary_offset = "#a99734"
       primary_text = "#ffffff"
       primary_text_offset = "#79bcff"
     [params.colors.dark]
@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
       alt_text_offset = "#a8a4a4"
       primary = "#0044CC"
       primary_offset = "#a99734"
-      primary_text = "#eeebfc"
+      primary_text = "#CCCCCC"
       primary_text_offset = "#a7a7a7"
 
 [params.fonts]
@@ -65,12 +65,12 @@ defaultContentLanguageInSubdir = false
   append_site_title = true                                   # appends the .Site.title to the <title> of all pages
 
 [params.footer]
-  show_site_title = true
+  show_site_title = false
   show_copyright = true
   show_social_media_links = true
   show_languages = false
   enable_menu_footer_primary = true
-  footer_primary_menu_title = "Collections"
+  footer_primary_menu_title = "Product"
   enable_menu_footer_secondary = true
   footer_secondary_menu_title = "Company"
   enable_menu_footer_tertiary = true
@@ -78,7 +78,15 @@ defaultContentLanguageInSubdir = false
 
 [menu]
   [[menu.main]]
+    name = "StudioVR"
+    url = "/studio/"
+    weight = 2
 
+  [[menu.main]]
+    name = "Shop"
+    url = ""
+    weight = 2
+    
   [[menu.footer_secondary]]
     name = "Privacy Policy"
     url = "/privacy/"

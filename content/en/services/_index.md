@@ -1,12 +1,12 @@
 ---
-title: "Collections"
-description: "We curate personal and career development programs using VR/AR technologies."
+title: "Services"
+description: "Furnish your VR room."
 date: 2018-02-10T11:52:18+07:00
 menu:
-  main:
-    identifier: collections
-    url: /collections/
-    weight: 1
+  # main:
+  #   identifier: Services
+  #   url: /services/
+  #   weight: 1
 header_transparent: true
 hero:
   background: "images/gen/home/home-8-large.webp"

@@ -1,14 +1,14 @@
 ---
 title: "Aria·VR"
 date: 2023-09-10
-description: "<strong> Premium </strong> design for the AR/VR experience."
+description: "<strong> Premium </strong> design for the AR|VR experience."
 header_transparent: true
 hero:
   background: "images/gen/home/home-1-large.svg"
   blend_mode: "overlay"
   theme: "primary"
-collections:
-  enabled: true
+shop:
+  enabled: false
   show_view_all: true
   limit: 1
 intro:
@@ -23,9 +23,9 @@ intro:
     external: false
   partners:
     enabled: false
-work:
-  enabled: false
-  label: "Live Collections"
+collection:
+  enabled: True
+  label: "Collections"
   show_view_all: false
   limit: 1
 outro:
