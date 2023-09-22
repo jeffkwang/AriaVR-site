@@ -4,7 +4,7 @@ date: 2023-09-10
 description: "<strong> Premium </strong> design for the AR|VR experience."
 header_transparent: true
 hero:
-  background: "images/gen/home/home-1-large.svg"
+  background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
   theme: "primary"
 shop:
