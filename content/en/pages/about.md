@@ -16,8 +16,6 @@ image: "images/gen/content/content-6-thumbnail.webp"
 \
 <b>AriaVR is a product of my obsession with VR.</b> 
 
-When I first tried the Meta Quest 2 at home, I was hooked. 
-
 When I tried the Meta Quest 2 at home for the first time, I was immediately hooked. But to my surprise, my friends didn't share the same enthusiasm - they thought VR was too fake and too virtual.
 
 That got me thinking: why isn't there a venue for VR enthusiasts? I firmly believe that VR has the potential to offer powerful shared experiences, just like its cousin, augmented reality (AR).
