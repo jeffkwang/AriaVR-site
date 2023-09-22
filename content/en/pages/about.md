@@ -18,7 +18,7 @@ image: "images/gen/content/content-6-thumbnail.svg"
 
 To my surprise, my friends did not share the same enthusiasm. They said VR was too fake, too virtual. 
 
-And so, I thought, "Why isn't there a venue of VR enthusiasts?" VR can and very much be a powerful shared experience. Like its cousin, AR, VR is a powerful supplement to our reality.
+And so, I thought, "Why isn't there a venue for VR enthusiasts?" VR can and very much be a powerful shared experience. Like its cousin, AR, VR is a powerful supplement to our reality.
 
 This leads to my first idea: a wellness studio using VR. I believe that VR has powerful healing applications. Namely, the experiences in VR are real enough to reshape our self-narratives. In addition, immersive fitness and meditation are gamechanging, in my humble opinion. This is quite a large project to tackle, and it's definitely still in my future plans.
 
