@@ -1,12 +1,12 @@
 ---
 title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+date: 2023-09-21T22:40:34+07:00
 menu:
   footer_tertiary:
     weight: 1
 ---
 
-We are a team of creative professionals and web developers servicing clients worldwide. We offer a free consultation for all new clients.
+Please contact me with any comments or issues. I will get back to you at my earliest convenience.
 
-- **Phone:** XXXX XXX XXX
-- **Email:** [example@example.com](mailto:example@example.com)
+- **Phone:** +1 (408) 940-6227
+- **Email:** [hello@ariavr.com](mailto:hello@ariavr.com)
