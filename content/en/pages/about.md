@@ -1,6 +1,6 @@
 ---
-title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+title: "About"
+date: 2023-09-21T19:25:30+10:00
 url: "about"
 menu:
   main:
@@ -8,52 +8,31 @@ menu:
     name: "About"
   footer_secondary:
     weight: 2
-description: "Business plan hackathon handshake responsive web design."
-image: "images/gen/content/content-6-thumbnail.webp"
+description: "Set and setting matters, always."
+image: "images/gen/content/content-6-thumbnail.svg"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+# What is AriaVR?
+<br>
+<b>AriaVR is a product of my obsession with VR.</b> When I first tried the Meta Quest 2 at home, I was hooked. 
 
-## Ne verba patulosque numen vix libet
+To my surprise, my friends did not share the same enthusiasm. They said VR was too fake, too virtual. 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+And so, I thought, "Why isn't there a community of VR enthusiasts?" VR can and very much be a powerful shared experience. Like its cousin, AR, VR is a powerful supplement to our real reality.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+This leads to my first idea: a wellness studio using VR. I believe that VR has powerful healing applications. Namely, the experiences in VR are real enough to reshape our self-narratives. In addition, immersive fitness and meditation are gamechanging, in my humble opinion. This is quite a large project to tackle, and it's definitely still in my future plans.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+The biggest problem that that idea poses is space. How would a VR wellness studio look like? From my use of VR, the definition of a proper VR space is quite ambiguous, except that it should be within a box of minimum 6.5 feet on all sides. And, that brings us to the present moment.
 
-## Postquam tamen
+The problem that we want to solve is curating the best experience for VR users at home. There are a variety of DIY VR room setups. However, each is unique to the user. I am here to do the hard work for you to provide everything you need to build the best VR space for you.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+***
+# About Jeff
+<br>
+Born and raised in sunny Fremont, CA, Jeff grew up in the wholesale business. He used to roam his father's warehouse, but he would be caught by employees and sent back into the office. When he was old enough, he started helping around. First, he helped copy and print product instruction manuals. Then, he helped assemble product displays. Finally, he helped package products for shipment. Indeed, he was an apprentice to his father. And, the most important lessons he learned were integrity and craftsmanship. 
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+Jeff holds these values near and dear, and he makes sure they form the core of every decision he makes. He has recently graduated from the University of Southern California with degrees in economics and mathematics. He now faces the trials of entrepreneurship as his father and grandfather had done before him.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+> [Shop Furnishings and Home Goods for VR Spaces](/) 
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+> [Read About VR Space Design](/blog) 
