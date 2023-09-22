@@ -31,7 +31,7 @@ AriaVR is the hub for all your VR space needs.
 ***
 # About Jeff
 \
-Born and raised in sunny Fremont, CA, Jeff grew up in the wholesale business. He used to roam his father's warehouse, but he would be caught by employees and sent back into the office. When he was old enough, he started helping around. First, he helped copy and print product instruction manuals. Then, he helped assemble product displays. Finally, he helped package products for shipment. Indeed, he was an apprentice to his father. And, the most important lessons he learned were integrity and craftsmanship.\
+Born and raised in sunny Fremont, CA, Jeff grew up in the wholesale business. He used to roam his father's warehouse, but he would be caught by employees and sent back into the office. When he was old enough, he started helping around. First, he helped copy and print product instruction manuals. Then, he helped assemble product displays. Finally, he helped package products for shipment. Indeed, he was an apprentice to his father. And, the most important lessons he learned were on integrity and craftsmanship.\
 \
 Jeff holds these values near and dear, and he makes sure they form the core of every decision he makes. He has recently graduated from the University of Southern California with degrees in economics and mathematics. He now faces the trials of entrepreneurship as his father and grandfather had done before him.\
 \
