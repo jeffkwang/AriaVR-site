@@ -1,5 +1,5 @@
 ---
-title: "An Overview of VR/AR Spaces"
+title: "An Overview of VR Spaces"
 date: 2023-09-16T17:18:03.527233
 authors: ["AriaVR"]
 tags: [""]
@@ -8,3 +8,5 @@ description: "Explore how Americans are turning their homes into immersive AR/VR
 thumbnail: "images/gen/blog/blog-4-thumbnail.webp"
 image: "images/gen/blog/blog-4.webp"
 ---
+
+When it comes to VR, you may think that an empty room would work best. 
