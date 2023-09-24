@@ -36,7 +36,7 @@ outro:
   description: Discover top quality goods at affordable prices.
   button:
     text: "Shop Now"
-    url: "shop.ariavr.com"
+    url: "https://shop.ariavr.com"
     external: true
 blog:
   enabled: true
