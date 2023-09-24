@@ -84,7 +84,7 @@ defaultContentLanguageInSubdir = false
 
   [[menu.main]]
     name = "Shop"
-    url = ""
+    url = "shop.ariavr.com"
     weight = 2
     
   [[menu.footer_secondary]]

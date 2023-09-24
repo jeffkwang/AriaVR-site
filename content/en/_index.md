@@ -29,14 +29,14 @@ collection:
   show_view_all: false
   limit: 1
 outro:
-  enabled: false 
+  enabled: true
   align: center
   image: ""
-  heading: Schedule An Introductory Session Today
-  description: A 15-minute call to understand your needs.
+  heading: Create Your VR Space Today
+  description: Discover top quality goods at affordable prices.
   button:
-    text: "Schedule"
-    url: "https://calendly.com/ariavr"
+    text: "Shop Now"
+    url: "shop.ariavr.com"
     external: true
 blog:
   enabled: true

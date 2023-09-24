@@ -89,20 +89,6 @@
         {{ end }}
     {{ end }}
 
-    {{ with .Params.outro }}
-        {{ if .enabled }}
-            <div class="strip theme-alt">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            {{ partial "components/info.html" . }}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        {{ end }}
-    {{ end }}
-
     {{ if .Params.blog.enabled }}
         {{ $section := $.Site.GetPage "section" "posts" }}
         {{ $pages := where $.Site.RegularPages "Type" "posts" }}
@@ -126,6 +112,20 @@
                 </div>
             </div>
         </div>
+        {{ end }}
+    {{ end }}
+
+    {{ with .Params.outro }}
+        {{ if .enabled }}
+            <div class="strip theme-alt">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            {{ partial "components/info.html" . }}
+                        </div>
+                    </div>
+                </div>
+            </div>
         {{ end }}
     {{ end }}
 
