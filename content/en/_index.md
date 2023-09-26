@@ -1,7 +1,7 @@
 ---
 title: "Aria·VR"
 date: 2023-09-10
-description: "<strong> Premium </strong> design for the AR|VR experience."
+description: "Shop <strong> AriaVR </strong> for a growing variety of styles and items designed for home and business VR spaces. Find inspiration for creating the best VR space in your home or business. Discover great value with premium, yet affordable items."
 header_transparent: true
 hero:
   background: "images/gen/home/home-1-large.webp"

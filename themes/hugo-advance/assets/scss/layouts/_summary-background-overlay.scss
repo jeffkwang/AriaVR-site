@@ -16,7 +16,7 @@
     &:hover {
       text-decoration: none;
       background-blend-mode: hard-light;
-      background-image: linear-gradient(to top, var(--color-primary), var(--color-primary));
+      background-image: linear-gradient(to top, var(--color-primary-offset), var(--color-primary));
     }
   }
   .summary-content {
@@ -46,7 +46,7 @@
   .summary-description {
     margin-top: auto;
     p {
-      color: var(--color-base-offset);
+      color: white;
       font-family: var(--font-monospace);
       font-size: 0.8rem;
       line-height: 1.34;
