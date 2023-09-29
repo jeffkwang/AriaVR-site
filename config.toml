@@ -60,8 +60,8 @@ defaultContentLanguageInSubdir = false
 
 [params.seo]
   meta_twitter_card = "summary"
-  meta_twitter_site = "@zerostaticio"
-  meta_twitter_creator = "@zerostaticio"
+  meta_twitter_site = "@ariavrofficial"
+  meta_twitter_creator = "@ariavrofficial"
   append_site_title = true                                   # appends the .Site.title to the <title> of all pages
 
 [params.footer]

@@ -27,7 +27,7 @@ collection:
   enabled: True
   label: "Collections"
   show_view_all: false
-  limit: 1
+  limit: 3
 outro:
   enabled: true
   align: center
@@ -41,5 +41,5 @@ outro:
 blog:
   enabled: true
   show_view_all: false
-  limit: 1
+  limit: 3
 ---

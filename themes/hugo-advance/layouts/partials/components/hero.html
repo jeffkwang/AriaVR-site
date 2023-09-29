@@ -12,10 +12,11 @@ background-blend-mode: {{ $blend_mode }};">
                     {{ if .title }}
                         <h1>{{ .title }}</h1>
                     {{ end }}
+                    {{ if .description }}
                         <p><strong>Premium</strong> design for the AR | VR experience.</p>
-                    <!-- {{ if .description }}
+                    {{ else }}
                         <p>{{ .description | safeHTML }}</p>
-                    {{ end }} -->
+                    {{ end }}
                 </div>
             </div>
             {{ if .image }}

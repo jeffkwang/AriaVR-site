@@ -46,7 +46,7 @@ In his free time, Jeff enjoys running or cycling. He also has a passion for crea
 
 > 
 >
-> [Shop Furnishings and Home Goods for VR Spaces](/) 
+> [Shop Furnishings and Home Goods for VR Spaces](shop.ariavr.com) 
 
 > 
 >
