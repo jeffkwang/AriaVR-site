@@ -1,7 +1,7 @@
 ---
 title: "Ritual"
-description: "Our debut catalogue."
-date: 2023-09-16
+description: "Discover furnishings and home decor for your VR space. Our debut catalogue features a variety of rug styles to cater for your every design and need."
+date: 2023-09-30
 weight: 1
 thumbnail: "images/gen/projects/project-3-1-thumbnail.webp"
 header_transparent: true
@@ -12,9 +12,10 @@ footer_primary:
     identifier: collections_footer
     url: /collections/ritual
     weight: 1
-work:
+collection:
   heading: Ritual
-  heading_label: "Collection"
-  brief: Our debut catalogue
+  heading_label: "Collections"
+  brief: Our debut catalogue.
   link: 
 ---
+

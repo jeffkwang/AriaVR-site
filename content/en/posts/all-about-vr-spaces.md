@@ -50,6 +50,4 @@ Here’s another living room with a VR space. There’s also a work / gaming des
 
 The allure of minimalism is augmented by VR in the announcement and showcase of the Apple Vision Pro. Amidst a primarily blank wall, the display makes it feel like you actually have the power of computing at your fingertips. Modern, minimalistic, and highly functional — this is the pinnacle of form and function.
 
->
->
-> [Browse our store for a variety of furnishings, curated for VR spaces.](shop.ariavr.com)
+Browse our [store](shop.ariavr.com) for a variety of furnishings, curated for VR spaces.

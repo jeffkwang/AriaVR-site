@@ -7,6 +7,7 @@ hero:
   background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
   theme: "primary"
+  description: "<strong> Premium </strong> design for the AR | VR experience."
 shop:
   enabled: false
   show_view_all: true

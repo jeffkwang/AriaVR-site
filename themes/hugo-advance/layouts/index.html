@@ -5,7 +5,11 @@
 {{ define "main" }}
 
     {{ if .Params.hero }}
-        {{ partial "components/hero.html" (dict "title" .Title "description" .Params.description "background" .Params.hero.background "blend_mode" .Params.hero.blend_mode "theme" .Params.hero.theme)}}
+        {{ if .IsHome }}
+            {{ partial "components/hero.html" (dict "title" .Title "description" .Params.hero.description "background" .Params.hero.background "blend_mode" .Params.hero.blend_mode "theme" .Params.hero.theme)}}
+        {{ else }}
+            {{ partial "components/hero.html" (dict "title" .Title "description" .Params.hero.description "background" .Params.background "blend_mode" .Params.hero.blend_mode "theme" .Params.hero.theme)}}
+        {{ end }}
     {{ end }}
 
     <!-- Show a list of 'services' -->
