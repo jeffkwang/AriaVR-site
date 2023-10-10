@@ -16,35 +16,35 @@ Make sure to post pictures of your space and tag us @ariavrofficial on Instagram
 
 ---
 
-![Source: Apple](/images/gen/blog/content0.webp)
+![Source: Apple](/images/gen/blog/content1-0.webp)
 
 # 5 Essential VR Spaces
 
-<img style="float: left;" src=/images/gen/blog/content1.webp alt="Source: Author"/>
+<img style="float: left;" src=/images/gen/blog/content1-1.webp alt="Source: Author"/>
 
 ### Sandbox VR
 
 Minimalism at its peak. When you enter any Sandbox VR location, there’s not much to notice. They have stripped away most of everything physical and invested all of it into the virtual. They want you to know that. Plain & simple with an modern touch, you can’t go wrong with this setup.
 
-<img style="float: right;" src=/images/gen/blog/content2.webp alt="Source: anonymous Redditor"/>
+<img style="float: right;" src=/images/gen/blog/content1-2.webp alt="Source: anonymous Redditor"/>
 
 ### Tea/Meditation/Reading/VR Room
 
 Comfort meets utility meets elegance. If this were the Swiss army knife of rooms, it would be among the most elegant of the bunch. The room is perfectly balanced, with not too many furnishings and just the right amount of space for most VR activities. It’s a room you’d want to be in — whether in VR or not.   
 
-<img style="float: left;" src=/images/gen/blog/content3.webp alt="Source: random Redditor"/>
+<img style="float: left;" src=/images/gen/blog/content1-3.webp alt="Source: random Redditor"/>
 
 ### Living Room VR With A View
 
 Views upon views. This Redditor has made a VR space in their living room. While it may not be the most effective VR space, we applaud them for their chic styling and the courage to use VR next to those windows.
 
-<img style="float: right;" src=/images/gen/blog/content4.webp alt="Source: random Redditor"/>
+<img style="float: right;" src=/images/gen/blog/content1-4.webp alt="Source: random Redditor"/>
 
 ### Living Room VR II
 
 Here’s another living room with a VR space. There’s also a work / gaming desk. We like the space’s modern aesthetic with the personal touch. Furthermore, the Redditor has safety in mind with the positioning of the sofa in front of the TV screen and the office chair in front of the desk. Overall, the setup does a great job of balancing safety, style, and function.
 
-<img style="float: left;" src=/images/gen/blog/content5.webp alt="Source: Apple"/>
+<img style="float: left;" src=/images/gen/blog/content1-5.webp alt="Source: Apple"/>
 
 ### The Minimal Workspace
 
