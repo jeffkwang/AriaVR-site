@@ -5,7 +5,7 @@ authors: ["Jeff"]
 tags: [""]
 categories: ["interiordesign", "vrspace", "tips"]
 description: "Find seven inspirations for minimalist spaces."
-thumbnail: "/images/gen/blog/content0.webp"
+thumbnail: "/images/gen/blog/content2-0.webp"
 image: ""
 ---
 
