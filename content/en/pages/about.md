@@ -8,42 +8,20 @@ menu:
     name: "About"
   footer_secondary:
     weight: 2
-description: "Set and setting matters, always."
+description: "We operate at the intersection of virtual and physical space. Read more about AriaVR below."
 image: "images/gen/content/content-6-thumbnail.webp"
 ---
 
 # What is AriaVR?
-\
-<b>AriaVR is a product of my obsession with VR.</b> 
 
-When I tried the Meta Quest 2 at home for the first time, I was immediately hooked. But to my surprise, my friends didn't share the same enthusiasm - they thought VR was too fake and too virtual.
+AriaVR is the culmination of our deep appreciation for virtual reality (VR). What began as a tool for astronaut training has now reached homes, offering unmatched experiences in gaming, health, and mindfulness. Our passion for VR stems from its transformative potential and our personal engagements with it.
 
-That got me thinking: why isn't there a venue for VR enthusiasts? I firmly believe that VR has the potential to offer powerful shared experiences, just like its cousin, augmented reality (AR).
+However, a seamless VR experience requires an accommodating physical space. This balance between the virtual realm and our tangible surroundings can sometimes be challenging. Users might find themselves stepping out of the designated play area, emphasizing the importance of spatial awareness.
 
-My first idea was to create a wellness studio that used VR for healing and transformative experiences. I believed that the immersive nature of VR could reshape self-narratives and offer exciting opportunities for fitness and meditation. However, I've got to admit that this is a project too large to tackle. Luckily, the idea presented multitude of problems to solve.
+To bridge this gap, AriaVR presents specially crafted furniture and home decor that cater to VR enthusiasts. These products, while practical and aesthetic, are designed to elevate the VR experience in daily life settings.
 
-One of the biggest problems is space and form. That is, how would a VR wellness studio look like? That got me thinking about how people use VR at home. From my own experience, I had to physically create a safe and open VR space in my garage. In doing so, I realized there were no readily available kits or consensus on the matter.  
+One such innovation is highlighted at the start of this page—a rug with embedded sensors. This rug communicates with VR headsets to provide spatial information, enhancing the immersion factor. As we look ahead, we envision a suite of furniture that integrates with VR, ensuring users enjoy an enriched and uninterrupted journey between realities.
 
-That's where AriaVR comes in. We are all about curating the perfect VR space in your own home. Whether it's finding the right equipment or designing the ideal layout, I'm dedicated to making it as easy as possible for VR enthusiasts to create their own perfect VR space.
-<br></br>
-***
+If you are as excited about VR spaces as we are, be sure to [say hello](/contact/). We would love to partner with you.
 
-# About Jeff
-\
-Born and raised in sunny Fremont, CA, Jeff grew up in the wholesale business. He used to roam his father's 
-warehouse, but his father's employees would take him back into the office. When he was old enough, he started
-helping around. First, he helped copy and print product instruction manuals. Then, he helped assemble product
-displays. Finally, he helped package products for shipment. Indeed, he was an apprentice to his father. And, the
-most important lessons he learned were on integrity and craftsmanship.\
-\
-Jeff holds these values near and dear, and he makes sure they form the core of every decision he makes. He has
-recently graduated from the University of Southern California, with degrees in economics and mathematics. He now
-faces the trials of entrepreneurship as his father and grandfather had done before him.\
-\
-In his free time, Jeff enjoys running or cycling. He also has a passion for creative writing.
-<br></br>
-***
-
-[Shop](shop.ariavr.com) Furnishings and Home Goods for VR Spaces. 
-
-[Read](/blog) About VR Space Design 
+If you are just looking to create the ultimate VR space, do visit our [blog](/blog/) or [shop](https://shop.ariavr.com).

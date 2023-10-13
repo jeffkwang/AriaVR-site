@@ -40,6 +40,61 @@
                     {{ end }}
                 </div>
             {{ end }}
+
+
+            <div class="col-12 col-md-3">
+                <style>
+                    .form-callout {
+                    background-color: var(--color-base); /* Background color */
+                    border: 1px solid #ccc;
+                    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+                    padding: 20px; /* Padding inside the form */
+                    border-radius: 5px;
+                    }
+        
+                    /* Styles for the form elements (adjust as needed) */
+                    .form-callout input[type="email"] {
+                    width: 100%;
+                    padding: 10px;
+                    margin-bottom: 15px;
+                    border: 1px solid #ccc;
+                    border-radius: 5px;
+                    }
+        
+                    .form-callout input[type="submit"] {
+                    background-color: #0044CC;
+                    color: #fff;
+                    padding: 10px 20px;
+                    border: none;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    }
+                </style>
+                <div id="custom-success-message" style="display: none;">
+                    Thank you for subscribing! You are now part of our community.
+                </div>
+                <div class="form-callout">
+                    <form action="https://ariavr.us12.list-manage.com/subscribe/post?u=3055bd23aa3ae213680fc6efd&amp;id=96616ff5aa&amp;f_id=00e96fe0f0" method="POST" onsubmit="showCustomSuccessMessage(); return false;">
+                        <h2>Subscribe to our newsletter!</h2>
+                        <!-- Replace 'YOUR_MAILCHIMP_POST_URL' with your Mailchimp post URL -->
+                        
+                        <input type="email" id="email" name="EMAIL" placeholder="Enter your email" required>
+                        
+                        <input type="submit" value="Submit">
+                    </form>
+                </div>
+    
+                <script>
+                    function showCustomSuccessMessage() {
+                      // Hide the form
+                      document.querySelector('form').style.display = 'none';
+                    
+                      // Show the custom success message
+                      document.getElementById('custom-success-message').style.display = 'block';
+                    }
+                </script>
+            </div>
+
         </div>
         {{ if .Site.Params.footer.show_social_media_links }}
             {{ if .Site.Data.social }}

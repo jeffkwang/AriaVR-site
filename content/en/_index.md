@@ -31,8 +31,8 @@ collection:
   limit: 3
 outro:
   enabled: true
-  align: center
-  image: ""
+  align: left
+  image: "/images/gen/home/outro-thumbnail.webp"
   heading: Create Your VR Space Today
   description: Discover top quality goods at affordable prices.
   button:

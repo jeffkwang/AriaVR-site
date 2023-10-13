@@ -9,6 +9,15 @@ thumbnail: "/images/gen/blog/content2-0.webp"
 image: ""
 ---
 
+# Key Points
+---
+
+* Minimalist spaces are great for promoting free movement.
+* Zen and Hygge are two popular styles of minimalism that provide both elegance and comfort.
+* These spaces are rather versatile. See the different variations in the seven designs below.
+
+---
+
 # Designing Around Space
 
 In interior design, a core goal is to maximize the potential of every space. Yet, there are contrasting schools of thought that challenge conventional design norms. As such, they offer fresh perspectives on the art of creating living spaces that value empty space. Among these contrasting philosophies, Zen minimalism and Hygge stand out as compelling choices. The result is nothing short of remarkable. These are living spaces that are not just aesthetically pleasing but also offer plenty of room to move about.
