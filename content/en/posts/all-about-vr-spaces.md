@@ -1,11 +1,12 @@
 ---
 title: "All About VR Spaces"
 date: 2023-09-29T03:16:03.527233
-authors: ["Jeff"]
-tags: [""]
-categories: ["interiordesign", "vrspace", "tips"]
-description: "Explore how Americans are turning their homes into immersive AR/VR spaces, blending technology seamlessly with everyday living."
+authors: ["Jeff Wang"]
+tags: ["Lookbook"]
+categories: ["Interior Design", "VR Spaces", "Tips"]
+description: "Explore how Americans are turning their homes into immersive AR/VR spaces."
 thumbnail: "/images/gen/blog/content1-0.webp"
+alt: "Thumbnail of man looking at Apple Vision Pro."
 image: ""
 ---
 You have heard about work spaces, meditation spaces, yoga spaces, reading spaces — the list goes on and on. If you are reading this, you may be considering another space: the VR space. Software aside, it is the VR space that makes or break a VR experience. Imagine being able to freely move within a room without the danger of crashing into walls or other objects. How would you create such a place?

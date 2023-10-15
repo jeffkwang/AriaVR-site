@@ -118,11 +118,11 @@ defaultContentLanguageInSubdir = false
 [languages.fr.menu]
   [[languages.fr.menu.main]]
     name = "Acheter"
-    url = "https://www.zerostatic.io/theme/hugo-advance/"
+    url = ""
     weight = 10
   [[languages.fr.menu.footer_tertiary]]
     name = "Acheter"
-    url = "https://www.zerostatic.io/theme/hugo-advance/"
+    url = ""
     weight = 10
 
 [permalinks]

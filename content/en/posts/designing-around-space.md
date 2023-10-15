@@ -1,11 +1,12 @@
 ---
 title: "Designing Around Space"
 date: 2023-10-09T20:52:03.527233
-authors: ["Jeff"]
-tags: [""]
-categories: ["interiordesign", "vrspace", "tips"]
+authors: ["Jeff Wang"]
+tags: ["Commentary"]
+categories: ["Interior Design", "VR Spaces", "Tips"]
 description: "Find seven inspirations for minimalist spaces."
 thumbnail: "/images/gen/blog/content2-0.webp"
+alt: "Thumbnail inviting you to read about designing around space."
 image: ""
 ---
 
