@@ -10,9 +10,10 @@
         </div>
         <div class="summary-meta">
             {{ if .Params.authors }}
-                <div class="summary-author">
+                {{ partial "components/author.html" . }}
+                <!-- <div class="summary-author">
                     {{ partial "components/author.html" . }}
-                </div>
+                </div> -->
             {{ end }}
             {{ $dateFormat := default "Jan 2, 2006" (index .Site.Params "date_format") }}
             <div class="summary-date">

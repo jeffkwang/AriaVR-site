@@ -1,0 +1,13 @@
+.author {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 0.8rem;
+    margin-right: 10px;
+    img {
+      height: 26px;
+      width: 26px;
+      border-radius: 50%;
+      margin-right: 10px;
+    }
+}

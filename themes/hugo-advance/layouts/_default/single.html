@@ -14,6 +14,9 @@
                         <h1>{{ .Title }}</h1>
                         <h2>{{ .Params.description }}</h2>
                     </div>
+                    {{ if .Params.authors }}
+                    <div class="author-by">Author(s): {{ partial "components/author.html" . }} </div>
+                    {{ end }}
                     {{ if .Params.image }}
                         <div class="col-12 col-lg-12" style="max-height: 720px; overflow: hidden;">
                             <img class="img-fluid" src={{ .Params.image | relURL }} />
