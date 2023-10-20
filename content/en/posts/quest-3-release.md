@@ -22,11 +22,11 @@ image: ""
 
 # Quest 3 : Meta’s Debut Into Mixed Reality
 
-|![The Quest 3](/images/gen/blog/content3-1.webp)
-|:--:|
-| *The Quest 3* |
+<div style="display: inline-block; text-align: center;">
+    <img src="/images/gen/blog/content3-1.webp" alt="The Quest 3 was released Oct. 10, 2023." style="margin: 0; display: block;">
+    <span style="display: block; margin-top: 0px; margin-bottom: 10px;">The Quest 3 was released Oct. 10, 2023.</span>
+</div>
 
-<br />
 The Quest 3 was released last week on October 10 amidst noticeable fanfare. From a first-hand glance, the consensus seems largely positive, noting the improvement of the Quest 3 over the Quest 2. Although regarded as the successor to the Quest 2, the device is actually a first for Meta. While the Quest 2 and, for the most part, Quest Pro are virtual reality headsets, the Quest 3 is a mixed reality headset. Here is a quick comparison of their specs:
 
 ## Spec Comparison
@@ -63,31 +63,33 @@ The Quest 3's introduction of color is a significant step towards an accurate de
 
 The Quest 3 is only available in the US, and I am currently writing this from Taiwan. However, my impression of the reviews is largely positive. Coming from the Quest 2 and the Quest Pro, I am excited to see this trend of mixed reality and even more excited to try the Quest 3 when I come back.  
 
-| ![Pancake (left) and Fresnel (right) lens.](/images/gen/blog/content3-2.webp)
-|:--:|
-| *Pancake (left) and Fresnel (right) lens.* |
-
-<br />
+<div style="display: inline-block; text-align: center;">
+    <img src="/images/gen/blog/content3-2.webp" alt="Pancake (left) and Fresnel (right) lens are shown here." style="margin: 0; display: block;">
+    <span style="display: block; margin-top: 0px; margin-bottom: 10px;">Pancake (left) and Fresnel (right) lens are shown here.</span>
+</div>
 
 # Spatial Data
 
 Spatial data offers a digital blueprint of our physical surroundings, detailing the size, shape, and location of objects and structures in a room. Meta Quest's utilization of this data allows virtual and real worlds to merge seamlessly. It recognizes and labels items, from furniture to windows, and measures their size, shape, and distance from each other and the headset. Three crucial types of spatial data underpin these interactions:
 
-| ![Scene data shown as simple shapes. Source: Meta](/images/gen/blog/content3-3.webp)
-|:--:|
-| *Scene data shown as simple shapes. Source: Meta* |
+<div style="display: inline-block; text-align: center;">
+    <img src="/images/gen/blog/content3-3.webp" alt="Scene data shown as simple shapes. Source: Meta" style="margin: 0; display: block;">
+    <span style="display: block; margin-top: 0px; margin-bottom: 10px;">Scene data shown as simple shapes. Source: Meta</span>
+</div>
 
 1. **Scene Data**: This provides a simplified model of a space, enabling the VR system to be more aware of the user's environment. Without it, virtual objects can't meaningfully interact with real-world counterparts.
 
-| ![Mesh data shown as more complex shape forms and textures. Source: Meta](/images/gen/blog/content3-4.webp)
-|:--:|
-| *Mesh data shown as more complex shape forms and textures. Source: Meta* |
+<div style="display: inline-block; text-align: center;">
+    <img src="/images/gen/blog/content3-4.webp" alt="Mesh data shown as more complex shape forms and textures. Source: Meta" style="margin: 0; display: block;">
+    <span style="display: block; margin-top: 0px; margin-bottom: 10px;">Mesh data shown as more complex shape forms and textures. Source: Meta</span>
+</div>
 
 2. **Mesh Data**: This is vital for understanding the precise shape and structure of objects in a physical space. In its absence, the interactions between virtual entities and the physical environment lack realism.
 
-| ![Depth data shown as a heatmap based on proximity. Source: Meta](/images/gen/blog/content3-5.webp)
-|:--:|
-| *Depth data shown as a heatmap based on proximity. Source: Meta* |
+<div style="display: inline-block; text-align: center;">
+    <img src="/images/gen/blog/content3-5.webp" alt="Depth data shown as a heatmap based on proximity. Source: Meta" style="margin: 0; display: block;">
+    <span style="display: block; margin-top: 0px; margin-bottom: 10px;">Depth data shown as a heatmap based on proximity. Source: Meta</span>
+</div>
 
 3. **Depth Data**: This measures the distance between items in a physical space, ensuring that virtual objects are rendered in a way that feels authentically three-dimensional.
 
@@ -107,11 +109,10 @@ These sensors contribute to dynamic interaction, such as the opening and closing
 
 Improved spatial data can also enhance safety. Proximity sensors in walls or carpets can alert users to potential collisions. Furthermore, the virtual environment can adapt based on proximity data, redirecting users to safer areas.
 
-| ![Ascended Quest Headset](/images/gen/blog/content3-6.webp)
-|:--:|
-| *A More Aware Quest Headset* |
-
-<br />
+<div style="display: inline-block; text-align: center;">
+    <img src="/images/gen/blog/content3-6.webp" alt="Future of mixed reality hardware is incorporating more spatial data." style="margin: 0; display: block;">
+    <span style="display: block; margin-top: 0px; margin-bottom: 10px;">As we incorporate more spatial data, our mixed reality environments become richer.</span>
+</div>
 
 # Final Notes
 
