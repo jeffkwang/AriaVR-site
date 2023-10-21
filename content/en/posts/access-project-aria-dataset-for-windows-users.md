@@ -19,10 +19,39 @@ image: ""
 - Learn how to access the Aria Digital Twin dataset on Windows.
 
 ---
+<br>
 
-# Project Aria
+<br />
 
-## Introduction
+# Table of Contents
+
+---
+
+1. [Project Aria](#projectaria)
+    1. [Introduction](#intro)
+    2. [Advanced Augmented Reality Versus Autonomous Vehicles](#ar-vs-autonomous-vehicles)
+    3. [Core Research Problems](#core-research-problems)
+        1. [Egocentric, multimodal data](#problem1)
+        2. [Inaccurate Representation of Physical Environment Under Sudden Change](#problem2)
+        3. [Applying Macine Learning on Non-ideal Data Source](#problem3)
+        4. [Contextual Analysis](#problem4)
+    4. [Final Notes](#finalnotes)
+2. [Aria Digital Twin Dataset](#adt)
+3. [Accessing ADT on Windows](#adt-windows)
+    1. [0. Download codebase](#step0)
+    2. [1. Install Python](#step1)
+    3. [2. Create a virtual environment](#step2)
+    4. [3. Visit ADT website sign up](#step3)
+    5. [4. Download the download-links file](#step4)
+    6. [Setup a folder for ADT data](#step5)
+    7. [Find and execute the ADT downloader script](#step6)
+
+---
+
+
+# Project Aria <a name="projectaria"></a>
+
+## Introduction <a name="intro"></a>
 
 In 2020, Meta began research in AR and AI technologies to develop AR glasses of the future. The culmination of their current work is Project Aria. As a side note, it is not to be confused with AriaVR, and neither are we affiliated with Meta. In a whitepaper released in August 2023, researchers describe “an egocentric, multi-modal data recording and streaming device” in the form of an eyeglass. 
 
@@ -33,7 +62,7 @@ In 2020, Meta began research in AR and AI technologies to develop AR glasses of 
 
 Jargon aside, the device is a means to collect various data such as sound, depth, and gravitational force from a first-person perspective. The purpose of Project Aria is to develop machine learning capabilities for first-person, multi-sensory data. These advanced machine learning methods are an essential step to enhance augmented reality with personalized AI.
 
-## Advanced Augmented Reality Versus Autonomous Vehicles
+## Advanced Augmented Reality Versus Autonomous Vehicles <a name="ar-vs-autonomous-vehicles"></a>
 
 Before we get to Project Aria’s core research problems, we have to understand the difference between advanced AR and autonomous vehicles. Both use machine learning to semantically label objects in real life environments. Yet, advanced AR has an added step: the reconstruction of physical reality. Here is the workflow of advanced AR:
 
@@ -52,9 +81,9 @@ Third, wearable devices are to be worn in homes and other private spaces. Abstra
 
 On the other hand, autonomous vehicles must work with real time video for the sake of optimizing safety. As such, they require high computational overhead, especially with the greater amount of sensors. That aside, the fundamental difference is in seeing things as-is and applying analyses in real time. The purpose of these vehicles is to identify objects and their movements for object avoidance. It is not important to understand how objects relate in the context of the immediate environment. This is what advanced AR hopes to do.  
 
-## Core Research Problems
+## Core Research Problems <a name="core-research-problems"></a>
 
-### Egocentric, multi-modal data
+### Egocentric, multi-modal data <a name="problem1"></a>
 
 The general problem that Project Aria addresses is the use of egocentric, multi-modal data. Egocentric or first-person and multi-modal or multi-sensory data presents unique challenges for machine learning. The challenge is in the data source, namely the quality of the data. Currently, training data for machine learning for computer vision is based on carefully constructed 3D spaces. When such models are applied to data that comes from wearable devices, the accuracy of analyses suffers horribly. Wearable devices have relatively poor data capture due to size constraints. Plus, human users move in unpredictable ways, adding greater complexity.    
 
@@ -63,23 +92,23 @@ The general problem that Project Aria addresses is the use of egocentric, multi-
     <span style="display: block; margin-top: 0px; margin-bottom: 10px;">Motion blur is common in egocentric data and causes significant distortion.</span>
 </div>
 
-### Inaccurate Representation of Physical Environment Under Sudden Change
+### Inaccurate Representation of Physical Environment Under Sudden Change <a name="problem2"></a>
 
 A specific research problem lies in the processing of first-person, multi-sensory data. Mature systems exist to reconstruct or update a map of an unknown environment while simultaneously keeping track of the device’s location. However, when there are sudden and significant changes to the environment, these systems can struggle to adapt, causing disruptions in the tracking process. Factors that are commonly subject to change are lighting, weather, and motion. 
 
-### Applying Machine Learning on Non-ideal Data Source
+### Applying Machine Learning on Non-ideal Data Source <a name="problem3"></a>
 
 Data sourced from a wearable device like the Project Aria eyeglasses is non-ideal. Data capture on these devices undergo natural human movement, and machine learning models are just not trained to account for this well. The Project Aria glasses inherently solves this problem. The greater availability of egocentric, multi-modal data unlocks new and better models. 
 
-### Contextual Analysis
+### Contextual Analysis <a name="problem4"></a>
 
 Advanced AR requires understanding the purpose of objects that the user looks at. Usually, this requires understanding the meaning of the object in the given environment. That is, what is the object as well as its role in the given ecosystem. Furthermore, the information must be translated into action items to facilitate interactions between the user and/or digital objects.
 
-### Final Notes
+## Final Notes <a name="finalnotes"></a>
 
 In brief, Project Aria, developed by Meta, is a groundbreaking venture into augmented reality (AR) using eyeglasses that capture multi-sensory, first-person data. It aims to overcome challenges like handling unpredictable human movements and accurately recognizing and relating objects in ever-changing environments. The ultimate goal is to enhance AR experiences by seamlessly merging the digital and physical worlds through advanced machine learning.
 
-# Aria Digital Twin Dataset
+# Aria Digital Twin Dataset <a name="adt"></a>
 
 In the hope of attracting interest and talent, Meta has made Project Aria open source. One of the datasets they provide is the Aria Digital Twin dataset, a collection of sequences recorded in Meta offices by Project Aria glasses. The dataset encompasses detailed data on objects, environments, and user interactions to aid AR research. Its most useful feature is the ability to compare between real and digitally simulated environments. You can train and test machine learning models this way.
 
@@ -90,7 +119,7 @@ If you would like to read more about the dataset, you can do so [here](https://w
     <span style="display: block; margin-top: 0px; margin-bottom: 10px;">Real versus digitally simulated environment from Project Aria Twin Dataset. Source: Meta</span>
 </div>
 
-# Accessing Aria Digital Twin Dataset on Windows
+# Accessing Aria Digital Twin Dataset on Windows <a name="adt-windows"></a>
 
 If you would like access to the dataset as a Windows user, you may be dismayed at the lack of compatibility. From the documentation: 
 
@@ -109,7 +138,7 @@ The codebase has been tested on the following platforms.
 
 What this means is there is no Python package for Windows, so we have to manually source and compile the downloader script. Here is how to do that. 
 
-## 0. Download codebase
+## 0. Download codebase <a name="step0"></a>
 
 In your preferred home folder, create the following folder and clone the git repository in it.
 
@@ -121,11 +150,11 @@ cd projectaria_sandbox
 git clone https://github.com/facebookresearch/projectaria_tools.git
 ```
 
-## 1. Install Python (if you haven’t)
+## 1. Install Python (if you haven’t) <a name="step1"></a>
 
 For more information, click this [link](https://www.python.org/downloads/).
 
-## 2. Create a virtual environment
+## 2. Create a virtual environment <a name="step2"></a>
 
 ```
 mkdir projectaria_tools_python_env
@@ -133,17 +162,17 @@ mkdir projectaria_tools_python_env
 projectaria_tools_python_env/Scripts/activate.bat
 ```
 
-## 3. **Visit [ADT website](https://www.projectaria.com/datasets/adt/) sign up.**
+## 3. **Visit [ADT website](https://www.projectaria.com/datasets/adt/) sign up.** <a name="step3"></a>
 
 Scroll down to the bottom of the page. Enter your email and select **Access the Datasets**.
 
-## 4. **Download the download-links file.**
+## 4. **Download the download-links file.** <a name="step4"></a>
 
 Once you've selected **Access the Datasets** you'll be taken back to the top of the ADT page.
 
 Scroll down the page to select **Aria Digital Twin Download Links** and download the file to the folder Downloads.
 
-## 5. Setup a folder for ADT data.
+## 5. Setup a folder for ADT data. <a name="step5"></a>
 
 ```
 mkdir projectaria_tools_adt_data
@@ -151,7 +180,7 @@ mkdir projectaria_tools_adt_data
 move "\Downloads\aria_digital_twin_dataset_download_urls.json" projectaria_tools_adt_data
 ```
 
-## 6. Find and execute the ADT downloader script.
+## 6. Find and execute the ADT downloader script. <a name="step6"></a>
 
 Below, we have included the command to download the sample sequence (~500 MB).
 
