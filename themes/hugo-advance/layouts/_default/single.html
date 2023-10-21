@@ -13,6 +13,7 @@
                     <div class="col-12 col-lg-8">
                         <h1>{{ .Title }}</h1>
                         <h2>{{ .Params.description }}</h2>
+                        <p id="reading-time">Reading Time: <span></span> minutes</p>
                     </div>
                     {{ if .Params.authors }}
                     <div class="author-by">Author(s): {{ partial "components/author.html" . }} </div>
