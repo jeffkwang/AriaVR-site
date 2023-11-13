@@ -4,33 +4,33 @@ date: 2023-09-10
 description: "Shop <strong> AriaVR </strong> for a growing variety of styles and items designed for home and business VR spaces. Find inspiration for creating the best VR space in your home or business. Discover great value with premium, yet affordable items."
 header_transparent: true
 hero:
-  background: "images/gen/home/home-1-large.webp"
+  background: "images/gen/home/ariavr-hero.png"
   blend_mode: "overlay"
   theme: "primary"
-  description: "<strong> Premium </strong> design for the AR | VR experience."
+  description: "Suite of XR tools <strong>built for e-commerce</strong>"
 shop:
   enabled: false
   show_view_all: true
   limit: 1
 intro:
-  enabled: false
+  enabled: true
   align: left
-  image: "images/gen/content/content-5-thumbnail.svg"
-  heading: "We help individuals grow"
-  description: "with countless simulations and analytics to keep you on track."
+  image: "images/gen/content/learner.webp"
+  heading: "Grow with XR tools for sales, marketing, and more!"
+  description: "Battle-tested by yours truly, our XR toolkit is the must-needed upgrade to your e-commerce arsenal."
   button:
-    text: "Get Started"
-    url: "/programs/"
+    text: "Learn more"
+    url: ""
     external: false
   partners:
-    enabled: false
+    enabled: true
 collection:
-  enabled: True
+  enabled: False
   label: "Collections"
   show_view_all: false
   limit: 3
 outro:
-  enabled: true
+  enabled: false
   align: left
   image: "/images/gen/home/outro-thumbnail.webp"
   heading: Create Your VR Space Today

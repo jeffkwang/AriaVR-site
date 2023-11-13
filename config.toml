@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Online Store for Real Furniture and Home Decor, Designed for VR Spaces"
+title = "XR solutions for e-commerce"
 theme = "hugo-advance"
 paginate = 3
 enableGitInfo = false
@@ -53,9 +53,9 @@ defaultContentLanguageInSubdir = false
   monospace = "Quicksand"
 
 [params.logo]
-  logo = "images/logo/logo.svg"                             # Desktop logo
+  logo = "images/logo/logo.png"                             # Desktop logo
   logo_mobile = "images/logo/logo-mobile.svg"               # Mobile logo, typically the smaller square version of your logo (logomark)
-  logo_invert = "images/logo/logo-invert.svg"               # Desktop logo in white, for use when the header is transparent
+  logo_invert = "images/logo/logo.png"               # Desktop logo in white, for use when the header is transparent
   logo_invert_mobile = "images/logo/logo-invert-mobile.svg" # Mobile logo in white
 
 [params.seo]
@@ -77,16 +77,6 @@ defaultContentLanguageInSubdir = false
   footer_tertiary_menu_title = "Support"
 
 [menu]
-  [[menu.main]]
-    name = "StudioVR"
-    url = "/studio/"
-    weight = 2
-
-  [[menu.main]]
-    name = "Shop"
-    url = "https://shop.ariavr.com"
-    weight = 2
-    
   [[menu.footer_secondary]]
     name = "Privacy Policy"
     url = "/privacy/"

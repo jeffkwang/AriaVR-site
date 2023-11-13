@@ -9,9 +9,4 @@ hero:
   background: "images/gen/home/home-9-large.webp"
   blend_mode: "overlay"
   theme: "primary"
-menu:
-  footer_primary:
-      identifier: collections_footer
-      url: /collections/
-      weight: 1
 ---

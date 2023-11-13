@@ -57,7 +57,9 @@
                         <div class="row justify-content-center align-items-center pt-3 pt-md-6">
                             {{ range .Site.Data.partners }}
                                 <div class="col-4 col-lg-2 text-center mb-1 mt-1">
-                                    <img style="max-width: 100px;" height="50px" src="{{ .image | relURL }}" alt="{{ .title }}"/>
+                                    <a href="{{ .url }}">
+                                    <img style="max-width: 150px;" height="100px" src="{{ .image | relURL }}" alt="{{ .title }}"/>
+                                    </a>
                                 </div>
                             {{ end }}
                         </div>
