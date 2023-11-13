@@ -15,7 +15,7 @@ shop:
 intro:
   enabled: true
   align: left
-  image: "images/gen/content/learner.webp"
+  image: "images/gen/content/info-image.webp"
   heading: "Grow with XR tools for sales, marketing, and more!"
   description: "Battle-tested by yours truly, our XR toolkit is the must-needed upgrade to your e-commerce arsenal."
   button:

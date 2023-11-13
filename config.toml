@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   google_analytics_id = "G-JC6Y9XCHHC"
-  enable_dark_mode = true
+  enable_dark_mode = false
   enable_nested_menu = true       # allows dropdown menus in main menu
   enable_fixed_header = true      # if true the header will be sticky and animate on scroll
   enable_language_switcher = false
@@ -54,9 +54,9 @@ defaultContentLanguageInSubdir = false
 
 [params.logo]
   logo = "images/logo/logo.png"                             # Desktop logo
-  logo_mobile = "images/logo/logo-mobile.svg"               # Mobile logo, typically the smaller square version of your logo (logomark)
+  logo_mobile = "images/logo/logo-mobile.webp"               # Mobile logo, typically the smaller square version of your logo (logomark)
   logo_invert = "images/logo/logo.png"               # Desktop logo in white, for use when the header is transparent
-  logo_invert_mobile = "images/logo/logo-invert-mobile.svg" # Mobile logo in white
+  logo_invert_mobile = "images/logo/logo-mobile.webp" # Mobile logo in white
 
 [params.seo]
   meta_twitter_card = "summary"
@@ -89,31 +89,6 @@ defaultContentLanguageInSubdir = false
     weight = 0
     languageName = "English"
     contentDir = "content/en"
-  [languages.fr]
-    weight = 1
-    languageName = "Français"
-    contentDir = "content/fr"
-    title = "Hugo Avance"
-    [languages.fr.params.footer]
-      show_site_title = true
-      show_copyright = true
-      show_social_media_links = true
-      show_languages = true
-      enable_menu_footer_primary = true
-      footer_primary_menu_title = "Produit"
-      enable_menu_footer_secondary = true
-      footer_secondary_menu_title = "Compagnie"
-      enable_menu_footer_tertiary = true
-      footer_tertiary_menu_title = "Support"
-[languages.fr.menu]
-  [[languages.fr.menu.main]]
-    name = "Acheter"
-    url = ""
-    weight = 10
-  [[languages.fr.menu.footer_tertiary]]
-    name = "Acheter"
-    url = ""
-    weight = 10
 
 [permalinks]
   posts = "blog/:year/:month/:title/"
